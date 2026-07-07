@@ -75,13 +75,6 @@ over-the-knee socks, opaque, dense knit microfiber, soft white, soft matte finis
 
 - [WorkBuddy](https://www.codebuddy.cn) installed
 
-### Install from Marketplace
-
-Open WorkBuddy and run:
-
-```
-/install hosiery-prompt-compiler-lite
-```
 
 ### Manual Install
 
